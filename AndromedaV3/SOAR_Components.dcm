@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADXL345
+D SparkFun Accelerometer
+F C:/2018-2019/Winter/ENEL 400/ADXL345.pdf
+$ENDCMP
+#
+$CMP AP2210-3.3
+D 3.3V ULDO
+F https://www.diodes.com/assets/Datasheets/AP2210.pdf
+$ENDCMP
+#
+$CMP MS5607
+D Barometer
+F C:/2018-2019/Winter/ENEL 400/MS5607-02BA03_B2.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADXL345
+D SparkFun Accelerometer
+F C:/2018-2019/Winter/ENEL 400/ADXL345.pdf
+$ENDCMP
+#
+$CMP MPU-9250
+D 9-DOF IMU
+F C:/2018-2019/Winter/ENEL 400/MPU-9250_Rev_1.1.pdf
+$ENDCMP
+#
+#End Doc Library
