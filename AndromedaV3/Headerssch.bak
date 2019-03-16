@@ -505,4 +505,10 @@ Text GLabel 3075 3275 0    39   Input ~ 0
 UART3_RX
 Text GLabel 3075 4800 0    31   Input ~ 0
 SD2_~CS
+Text Notes 2825 2450 0    47   ~ 0
+IMU and UART3
+Text Notes 2575 3625 0    47   ~ 0
+Accelerometer and Barometer
+Text Notes 2875 4575 0    47   ~ 0
+SD Card Slots
 $EndSCHEMATC
