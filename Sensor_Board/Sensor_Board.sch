@@ -1042,4 +1042,12 @@ Wire Wire Line
 Wire Wire Line
 	7100 4950 7050 4950
 Connection ~ 7050 4950
+Text Notes 7275 7250 0    50   ~ 0
+1 1
+Text Notes 7350 7500 0    50   ~ 0
+Sensor (Daughter) Board by Prithvi Shankara
+Text Notes 10575 7650 0    50   ~ 0
+1
+Text Notes 8125 7625 0    50   ~ 0
+6 March 2019
 $EndSCHEMATC
